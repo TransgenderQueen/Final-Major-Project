@@ -105,7 +105,9 @@ Alongside this, there was also a small issue of me not having internet commectio
 
 ### Next Time
 
+Next time, I’ll definitely make a proper plan so I don’t just dive in headfirst without thinking things through. The big issue I ran into was getting totally overwhelmed. I didn’t pace myself, and it ended up burning me out pretty quickly.
 
+Looking ahead, I’ll be way more thoughtful about choosing projects that I’m actually excited about, rather than just going for something that sounds cool at first. The real problem here was that I ended up falling out of love with the project midway, and once that happened, it was tough to keep pushing forward. It definitely led to me not finishing as strong as I should have.
 
 ## Bibliography
 
