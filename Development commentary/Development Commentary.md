@@ -90,7 +90,18 @@ However, this meant I could go back and work on everything from a fresh start, l
 
 ### Positive Analysis 
 
+I think the random weapon system, even though it’s pretty basic, actually worked really well. It added just enough variety to keep things interesting without overcomplicating anything. I'm honestly pretty proud of how it turned out—it did what it needed to do, and it felt good in the game.
+
+I also really like how the weapon crafting system came together. It gave players some control over their loadout, which balanced nicely with the randomness. It was fun to build and even more fun to see players experiment with it.
+
+Additionally, my favorite aspect of the project in general was definatly finishing up the UI. I am not the best at designing nice UI, but I am proud of mine, keeping it all neat and tidy so everything it out of the way of one another. It is not too clumped and not too small, making sure its perfect.
+
+
 ### Negative Analysis  
+
+The main issue here, honestly, was a mix of creative burnout and time pressure. I hit a point where I just ran out of ideas and couldn’t find the motivation to push things forward. Inspiration dried up, and I didn’t really have a clear direction anymore. On top of that, I made a few bad calls that really didn’t help and ended up dragging the whole thing down. Looking back, I can see where it started to fall apart, and a lot of that comes down to me just not being in the right headspace to keep it going.
+
+Alongside this, there was also a small issue of me not having internet commection for two weeks, causing me to be unable to work on a lot of my necessary work as I was unable to check online. 
 
 ### Next Time
 
