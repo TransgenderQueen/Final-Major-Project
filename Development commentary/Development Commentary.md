@@ -18,8 +18,10 @@ Ultimatly I am not too worried for this. With a lot of user testing and constant
 
 ### Methodology
 
+So, what I ended up looking into was Agile methodology, specifically the idea of using sprints to break down progress into manageable chunks. The goal was to keep the development process iterative, so instead of trying to build everything all at once, I’d focus on small, incremental improvements and just keep looping back to the start after each sprint to refine things. It’s all about making consistent progress and being flexible with how things evolve, which seemed like a smart way to avoid getting stuck or overwhelmed.
 
-
+On top of that, I also took some inspiration from a game called Star Citizen(Roberts Space Industries | Follow the development of Star Citizen and Squadron 42 - Roberts Space Industries | Follow the development of Star Citizen and Squadron 42, s.d.). 
+The way they approach development is by releasing small patches that gradually add more content over time, rather than trying to do everything at once. It’s a slower, more steady process, but it works for them. I thought this approach could work well for my project too—pushing out small updates regularly, instead of waiting until everything is “perfect.” This was the core of my methodology: a steady, ongoing push forward that builds up over time.
 
 
 ### Game Sources
@@ -47,7 +49,16 @@ Additionally I have also looked at Vault Hunters. This is a Minecraft modpack wh
 
 ### Documentation Sources
 
-- First off, I found a very nice video talking about making video documentatoo
+So, one of the best finds during development was this video on getting gamepads to work with menus. I had been scratching my head over how to implement gamepad support in a way that felt natural for navigating through menus, and it was a issue i couldnt figure out how to solve. But after searching, I came across this video, and it was an immediate help. It broke everything down step by step, covering all the little details I’d missed, and it instantly solved a massive problem I had.
+
+Not only did it save me a ton of time, but it gave me a better understanding of how to handle user input in a more intuitive way. I had been thinking about this feature for a while but wasn't sure how to approach it—this video just laid it out in such a simple, clear manner. It was like a lightbulb moment. I was able to implement the solution right away, and it felt really satisfying to see it all come together. Sometimes the right resource at the right time can make all the difference, and that video definitely was one of those moments for me.
+Crafting System Video:
+
+Then, I came across another video that was all about building crafting systems in games, which was pretty eye-opening. I was already thinking about how I wanted crafting to work in my game, but this video showed me some interesting techniques and design patterns that I hadn’t considered. Even though I didn’t actually end up using the exact system they were showing, it gave me tons of new ideas about how to approach it.
+
+What was really cool about it was that it got me thinking beyond the basic crafting mechanic. I started brainstorming ways to make the system feel more dynamic—things like adding more layers of customization, different materials, or ways to integrate crafting into the larger game world. The video gave me the tools to think about crafting not just as a standalone feature, but as something that could add depth to the overall experience.
+
+Ultimately, I didn’t implement the system as shown in the video, but it really helped shape how I designed my own approach. Sometimes, it’s not about directly using the ideas you see, but rather using them as inspiration to spark your own unique solutions. And that’s exactly what this video did for me—it expanded my thinking and helped me refine my own vision for the crafting system.
 
 
 ---
@@ -119,6 +130,7 @@ Looking ahead, I’ll be way more thoughtful about choosing projects that I’m 
 
 - Unreal Engine 4 Tutorial - Survival Game Part 10: Crafting Setup (2022) At: https://www.youtube.com/watch?v=Clfqu46vGfM (Accessed  03/03/2025).
 
-- 
+- Roberts Space Industries | Follow the development of Star Citizen and Squadron 42 - Roberts Space Industries | Follow the development of Star Citizen and Squadron 42 (s.d.) At: https://robertsspaceindustries.com/en/ (Accessed  15/05/2025).
+
 
 - 
