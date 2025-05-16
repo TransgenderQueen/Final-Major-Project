@@ -5,7 +5,7 @@ This project will be an upgrade of my original prototype. This is based on simil
 
 
 - Weapon crafting system
-- Multiple distinct weapon types that have different movesets
+- Multiple distinct weapon types
 - Updated animations and art and design for the world
 - More dungeons, with ranging difficulty due to more enemies or bosses.
 
@@ -113,7 +113,16 @@ Eventually I came up with a final outcome. I had to reorginize the system. I nee
 
 
 ### Testing
-This was my favorite part of making my game. I always enjoy seeing people try out my game. For three of the tests I sat in the rooom with them as they tested what I had.
+
+This was my favorite part of making my game. I always enjoy seeing people try out my game. For three of the tests I sat in the rooom with them as they tested what I had. This was during spint weeks 5-6
+
+- Each of the testers instantly began to ask me what to do as soon as they loaded into the game. I told them to read the text.
+- They all began by instantly testing the weapons, using the attacks and abilities. First peice of feedback was that the weapon animations were fun.
+- The next peice of information they all had for me was that they all enjoyed the goofieness of the enemies sliding across the floor. Though one mentioned that it was annoying they didnt have walking animations.
+
+
+### Later testing
+
 <br>
 
 
@@ -122,6 +131,7 @@ This was my favorite part of making my game. I always enjoy seeing people try ou
 <br>
 
 ### Technical Difficulties
+
 During this project, I had come up with plenty of new ideas, begining to build them up as blueprints.
 However, as I continued to work on the project, I found myself hating the project more and more, being unable to work on it. As I looked at what I had made, i found myself hating it. But I eventually couldnt deal with what I worked on and deleted it all in anger. This was not a good idea, as it meant I had lost a considerable amount of work.
 However, this meant I could go back and work on everything from a fresh start, learning from my mistakes.
