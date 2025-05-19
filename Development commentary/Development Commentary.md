@@ -10,24 +10,15 @@ This project will be an upgrade of my original prototype. This is based on simil
 - More dungeons, with ranging difficulty due to more enemies or bosses.
 
 
-There are a few things I know I will have an issue with. I am not the most confident in my level of design skills, so I know I will need to do a lot of research on how people feel about art and design.
-
-
+There are a few things I know I will have an issue with. I am not the most confident in my level of design skills, so I know I will need to do a lot of research on how people feel about art and design. But in the end I know that I ultimatly will not need to do too much work, I will be more focusing on a functioning game rather than a pretty game.
 I additionally have not dabbled with audio before, so setting it up will be a big challenge for me, though I am confident with enough practice and testing I can get it set up.
-
-
 Ultimatly I am not too worried for this. With a lot of user testing and constant feedback I can fine tune this project.
-
-
-
 
 ## Research
 
-
 ### Methodology
 
-
-So, what I ended up looking into was Agile methodology, specifically the idea of using sprints to break down progress into manageable chunks. The goal was to keep the development process iterative, so instead of trying to build everything all at once, I’d focus on small, incremental improvements and just keep looping back to the start after each sprint to refine things. It’s all about making consistent progress and being flexible with how things evolve, which seemed like a smart way to avoid getting stuck or overwhelmed.
+So, what I ended up looking into was Agile methodology (What Is Agile Project Management? | APM Methodology & Definition, s.d.), specifically the idea of using sprints to break down progress into manageable chunks. The goal was to keep the development process iterative, so instead of trying to build everything all at once, I’d focus on small, incremental improvements and just keep looping back to the start after each sprint to refine things. It’s all about making consistent progress and being flexible with how things evolve, which seemed like a smart way to avoid getting stuck or overwhelmed.
 
 
 On top of that, I also took some inspiration from a game called Star Citizen(Roberts Space Industries | Follow the development of Star Citizen and Squadron 42 - Roberts Space Industries | Follow the development of Star Citizen and Squadron 42, s.d.).
@@ -41,33 +32,38 @@ The way they approach development is by releasing small patches that gradually a
 
 ### Game Sources
 
-
 The first game is Mount and Blade: Bannerlord II(Mount&Blade II Bannerlord - TaleWorlds Entertainment, s.d.). The crafting system in the weapons is quite in-depth. The higher the weapon you wish to craft, the rarer the recourses to craft it becomes.
-
 
  - I am looking at this game as I heard that people really enjoyed the crafting system, especially as it felt fun to use.
 
-
  - The game focuses on allowing you to craft parts of a weapon at a time before adding it all together. For example a dagger head and small hilt and handle would become a dagger, or a rake head and long pole would become a pike. It allows for fun combonations that get more and more intersting.
-
 
  - This is a unique way to have a weapon crafting system as it allows for a lot of flexibility and custom weapons. Players get greater satisfaction from having their own crafted weapons.
  - This is useful for my own game as I wish to have a crafting system like this. I want to replicate the part of the system that allows you to combine different weapon blades and handles. It will be fun for players to craft weapons and play around with different ranges and attack speeds.
  - I do not want to replicate all of it however. I do not wish to include weapon teirs or cosmetics, I will have similar things in the game that would work better for my specific system.
 
-
 <br>
 
-
 Additionally, I have also looked at Vault Hunters. This is a Minecraft modpack which focuses on dungeon running. Inside the Vaults, you can find weapons and items that can allow you to change current weapons.
-
-
 - I like the design of the game that forces you to explore and keep trying untill you gain an item.
 - It ensures the player has to try and try in order to and gain what they want in order to potentially uprade their weapons. This means that the player will constantly play to get better.
 - I will not copy everything from this game, as that would be far too unoriginal. In my game, I wish to take ideas from this system. For example, items to reset the stats of weapons. When made in combination with the ideas from Mount and Blade: Bannerlord II(Mount&Blade II Bannerlord - TaleWorlds Entertainment, s.d.), it shall end up as an interesting system
 
+<br>
+
+Finally I looked at a newer game called Kingdom come deliverance 2 (Kingdom Come: Deliverance 2, s.d.)
+In Kingdom Come: Deliverance 2(Kingdom Come: Deliverance 2, s.d.), the weapon forging system is a skill-based process that emphasizes timing and craftsmanship.
+
+ - Players begin by gathering materials and blueprints, then heating metal in a furnace until it reaches the perfect temperature. Using bellows to maintain the fire, the player must then transfer the heated metal to an anvil, where the real forging begins.
+ - The hammering process is rhythm-based—matching the beat of Henry's whistle improves efficiency and ensures even shaping. Sparks and sound cues help guide successful strikes, and maintaining consistent pressure across the metal is key to crafting high-quality weapons.
+ - As the metal cools, players must return it to the furnace to reheat it, sometimes multiple times throughout the process. Once shaped, the weapon is quenched in water to finalize its durability and combat readiness. The quality of the finished item depends on craftsmanship skill, timing, and technique.
+ - I really like how they created the weapon crafting system, keeping it immersive and worthwhile. The player could eventually make all of the endgame weapons and armour necessary, keeping the player happy and ready to play the game with what they made. Ultimatly I will prehaps take ideas from this game, but not take heavy insipiration, due to the fact that there is a lot of realism in this game that would not function with my own game.
+
 
 ### Academic Sources
+
+In the journel titled "Crafting in video games"(Grow et al., 2017), it explains what a crafting game is and how they can change someones playstyle or how they may feel about a game. Such notable games are Minecraft(Welcome to the official site of Minecraft, s.d.), which is the most popular game of all time, but one of the most popular crafting games ever. This does this very well by making sure you are the only one making every single block, item, piece of food, piece of armour and weapon. This means people gain a lot of emotional attachments, meaning that every single hard fought item they could create will be saved and cherished. Items such as the Elytra or a players first diamond pickaxe will be saved and cherished by players.
+So I want to ensure that players will enjoy what they can play as well as feeling a sense of accomplishment when getting newer weapons.
 
 
 ### Documentation Sources
@@ -77,23 +73,19 @@ So, one of the best finds during development was this video on getting gamepads 
 
 
 Not only did it save me a ton of time, but it gave me a better understanding of how to handle user input more intuitively. I had been thinking about this feature for a while but wasn't sure how to approach it—this video just laid it out in such a simple, clear manner. It was like a lightbulb moment. I was able to implement the solution right away, and it felt satisfying to see it all come together. Sometimes the right resource at the right time can make all the difference, and that video was one of those moments for me.
+Additonally I came across another issue wth this. When x-box controllers were plugged into Unreal Engine, there are chances that the character will constantly look down while also moving to the left. Ultimaltly not an issue for players as it only effects the editor not the final build.
+
 Crafting System Video:
-
-
 Then, I came across another video that was all about building crafting systems in games, which was pretty eye-opening. I was already thinking about how I wanted crafting to work in my game, but this video showed me some interesting techniques and design patterns that I hadn’t considered. Even though I didn’t end up using the exact system they were showing, it gave me tons of new ideas about how to approach it.
 
 
 What was cool about it was that it got me thinking beyond the basic crafting mechanic. I started brainstorming ways to make the system feel more dynamic—things like adding more layers of customization, different materials, or ways to integrate crafting into the larger game world. The video gave me the tools to think about crafting not just as a standalone feature, but as something that could add depth to the overall experience.
 
-
 Ultimately, I didn’t implement the system as shown in the video, but it helped shape how I designed my approach. Sometimes, it’s not about directly using the ideas you see but rather using them as inspiration to spark your own unique solutions. And that’s exactly what this video did for me—it expanded my thinking and helped me refine my own vision for the crafting system.
-
 
 ---
 
-
 ## Implementation
-
 
 ### Process
 For my project, I needed to create a system that allowed me to reroll for weapons stats. This meant that I needed to call only a certain part of the system that created the stats while ignoring the system that allowed the rarity of the weapons and weapon type.
@@ -101,9 +93,8 @@ For my project, I needed to create a system that allowed me to reroll for weapon
 
 (Insert image here)
 <br>
+
 However, as I went to create the system that did it, I noticed a lot of issues with the original system. When making a weapon, it would start the stat system before then deciding what weapon type and rarity it was. This was increadibly inefficent and after plenty of testing, it would often not work correctly, having different outcomes roughly about 70% of the time.
-
-
 Eventually I came up with a final outcome. I had to reorginize the system. I needed to put the weapon rarity and type before any other systems began to work.
 
 
@@ -114,22 +105,27 @@ Eventually I came up with a final outcome. I had to reorginize the system. I nee
 
 ### Testing
 
-This was my favorite part of making my game. I always enjoy seeing people try out my game. For three of the tests I sat in the rooom with them as they tested what I had. This was during spint weeks 5-6
+This was my favorite part of making my game. I always enjoy seeing people try out my game. For three of the tests I sat in the room with them as they tested what I had. This was during spint weeks 5-6
 
 - Each of the testers instantly began to ask me what to do as soon as they loaded into the game. I told them to read the text.
-- They all began by instantly testing the weapons, using the attacks and abilities. First peice of feedback was that the weapon animations were fun.
+- They all began by instantly testing the weapons, using the attacks and abilities. First piece of feedback was that the weapon animations were fun.
 - The next peice of information they all had for me was that they all enjoyed the goofieness of the enemies sliding across the floor. Though one mentioned that it was annoying they didnt have walking animations.
+
+- The last piece of positive feedback they all had for me was the fact that the crouching I implimented into the game was fun.
+
+<iframe src="https://blueprintue.com/render/w7j0g03h/" width="8100" height="600" scrolling="no" allowfullscreen></iframe>
+
+(Figure 1 - Shows a blueprint allowing the player to imitate crouching by simply just squishing their hight by 50%, allowing for a very funny image. This was greatly received as something silly and endearing by players.)
 
 
 ### Later testing
 
 <br>
 
-
-
 ![alt text](https://raw.githubusercontent.com/TransgenderQueen/Final-Major-Project/refs/heads/main/Development%20commentary/Testing%20Image%201-1.png)
 
 <br>
+
 
 ### Technical Difficulties
 
@@ -137,44 +133,26 @@ During this project, I had come up with plenty of new ideas, begining to build t
 However, as I continued to work on the project, I found myself hating the project more and more, being unable to work on it. As I looked at what I had made, i found myself hating it. But I eventually couldnt deal with what I worked on and deleted it all in anger. This was not a good idea, as it meant I had lost a considerable amount of work.
 However, this meant I could go back and work on everything from a fresh start, learning from my mistakes.
 
-
-
-
 ## Outcomes
 
 
 ### Source Code/Project Files
 
-
 ### Build Link
-
 
 ### Video Demonstration
 
-
-
-
-
-
 ## Reflection
-
 
 ### Research Effectiveness  
 
-
 ### Positive Analysis
-
 
 I think the random weapon system, even though it’s pretty basic, actually worked well. It added just enough variety to keep things interesting without overcomplicating anything. I'm honestly pretty proud of how it turned out—it did what it needed to do, and it felt good in the game.
 
-
 I also really like how the weapon crafting system came together. It gave players some control over their loadout, which balanced nicely with the randomness. It was fun to build and even more fun to see players experiment with it.
 
-
 Additionally, my favourite aspect of the project, in general, was finishing up the UI. I am not the best at designing nice UI, but I am proud of mine, keeping it all neat and tidy so everything is out of the way of one another. It is not too clumped and not too small, making sure it is perfect.
-
-
-
 
 ### Negative Analysis  
 
@@ -182,7 +160,7 @@ Additionally, my favourite aspect of the project, in general, was finishing up t
 The main issue here, honestly, was a mix of creative burnout and time pressure. I hit a point where I just ran out of ideas and couldn’t find the motivation to push things forward. Inspiration dried up, and I didn’t have a clear direction anymore. On top of that, I made a few bad calls that didn’t help and ended up dragging the whole thing down. Looking back, I can see where it started to fall apart, and a lot of that comes down to me just not being in the right headspace to keep it going.
 
 
-Alongside this, there was also a small issue of me not having internet commection for two weeks, causing me to be unable to work on a lot of my necessary work as I was unable to check online.
+Alongside this, there was also a small issue of me not having internet commection for two weeks, causing me to be unable to work on a lot of my necessary work as I was unable to check online. Ultimatly there were a lot of issues for the etiererty of this project, meaning I was enjoying it less and less and less.
 
 
 ### Next Time
@@ -212,11 +190,16 @@ Looking ahead, I’ll be way more thoughtful about choosing projects that I’m 
 
 - Roberts Space Industries | Follow the development of Star Citizen and Squadron 42 - Roberts Space Industries | Follow the development of Star Citizen and Squadron 42 (s.d.) At: https://robertsspaceindustries.com/en/ (Accessed  15/05/2025).
 
-https://bannerlord-online.com/forum/index.php?threads/crafting-system-and-items-quality.1891/
+- Kingdom Come: Deliverance 2 (s.d.) At: https://kingdomcomerpg.com/ (Accessed  19/05/2025).
+
+- Grow, A., Dickinson, M., Pagnutti, J., Wardrip-Fruin, N. and Mateas, M. (2017) 'Crafting in Games' At: https://www.proquest.com/docview/2555194299?fromopenview=true&pq-origsite=gscholar&sourcetype=Scholarly%20Journals (Accessed  19/05/2025).
+
+- What Is Agile Project Management? | APM Methodology & Definition (s.d.) At: https://www.apm.org.uk/resources/find-a-resource/agile-project-management/ (Accessed  19/05/2025).
+
+- Welcome to the official site of Minecraft (s.d.) At: https://www.minecraft.net/en-us (Accessed  19/05/2025).
+
 
 https://mountandblade.fandom.com/wiki/Weapon_crafting
-
-https://www.proquest.com/docview/2555194299?pq-origsite=gscholar&fromopenview=true&sourcetype=Scholarly%20Journals
 
 https://kingdomcomedeliverance2.wiki.fextralife.com/Blacksmithing
 
