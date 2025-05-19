@@ -71,7 +71,7 @@ Additionally, I have also looked at Vault Hunters. This is a Minecraft modpack w
 
 
 ### Documentation Sources
-
+ CITE THIS A LOT
 
 So, one of the best finds during development was this video on getting gamepads to work with menus. I had been scratching my head over how to implement gamepad support in a way that felt natural for navigating through menus, and it was an issue I couldn't figure out how to solve. But after searching, I came across this video, and it was an immediate help. It broke everything down step by step, covering all the little details I’d missed, and it instantly solved a massive problem I had.
 
@@ -127,7 +127,7 @@ This was my favorite part of making my game. I always enjoy seeing people try ou
 
 
 
-![alt text](https://github.com/TransgenderQueen/Final-Major-Project/blob/main/Development%20commentary/Testing%20Image%201-1.png)
+![alt text](https://raw.githubusercontent.com/TransgenderQueen/Final-Major-Project/refs/heads/main/Development%20commentary/Testing%20Image%201-1.png)
 
 <br>
 
@@ -190,6 +190,7 @@ Alongside this, there was also a small issue of me not having internet commectio
 
 Next time, I’ll make a proper plan so I don’t just dive in headfirst without thinking things through. The big issue I ran into was getting overwhelmed. I didn’t pace myself, and it ended up burning me out pretty quickly.
 
+Additionally, I had a Trello board for the first few weeks. While it started out rather well, it quickly fell apart into peices, becoming a bit of a mess. Originally I used a 
 
 Looking ahead, I’ll be way more thoughtful about choosing projects that I’m excited about, rather than just going for something that sounds cool at first. The real problem here was that I ended up falling out of love with the project midway, and once that happened, it was tough to keep pushing forward. It led to me not finishing as strong as I should have.
 
@@ -210,4 +211,16 @@ Looking ahead, I’ll be way more thoughtful about choosing projects that I’m 
 
 
 - Roberts Space Industries | Follow the development of Star Citizen and Squadron 42 - Roberts Space Industries | Follow the development of Star Citizen and Squadron 42 (s.d.) At: https://robertsspaceindustries.com/en/ (Accessed  15/05/2025).
+
+https://bannerlord-online.com/forum/index.php?threads/crafting-system-and-items-quality.1891/
+
+https://mountandblade.fandom.com/wiki/Weapon_crafting
+
+https://www.proquest.com/docview/2555194299?pq-origsite=gscholar&fromopenview=true&sourcetype=Scholarly%20Journals
+
+https://kingdomcomedeliverance2.wiki.fextralife.com/Blacksmithing
+
+https://dev.epicgames.com/documentation/en-us/unreal-engine/saving-and-loading-your-game-in-unreal-engine 
+
+https://dev.epicgames.com/documentation/en-us/unreal-engine/using-retargeted-animations-in-unreal-engine?application_version=5.5
 
