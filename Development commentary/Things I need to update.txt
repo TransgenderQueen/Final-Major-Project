@@ -1,0 +1,17 @@
+Things I need to update
+
+- Fix teleporter DONE
+- Update Text colour DONEEEEEEEEEEEEEEE
+- add controller support for menus
+- add control hint menu DONE
+- toggle crouch DONE
+- Remove the print strings
+- KILL PLANES
+
+
+QUICK FEEDBACK HERE
+ - The camera feels strange when teleporting
+ - Weapons feels strange to attack, hits enemies
+ - The crouching is dumb and funny, is perfect
+ - Needs a control menu
+ - 

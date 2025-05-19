@@ -126,7 +126,8 @@ This was my favorite part of making my game. I always enjoy seeing people try ou
 <br>
 
 
-![Image](Development commentary/Testing Image 1.png)
+
+![alt text](https://github.com/TransgenderQueen/Final-Major-Project/blob/main/Development%20commentary/Testing%20Image%201-1.png)
 
 <br>
 
@@ -209,9 +210,4 @@ Looking ahead, I’ll be way more thoughtful about choosing projects that I’m 
 
 
 - Roberts Space Industries | Follow the development of Star Citizen and Squadron 42 - Roberts Space Industries | Follow the development of Star Citizen and Squadron 42 (s.d.) At: https://robertsspaceindustries.com/en/ (Accessed  15/05/2025).
-
-
-
-
--
 
