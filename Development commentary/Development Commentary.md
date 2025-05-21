@@ -54,6 +54,9 @@ Additionally, I have also looked at Vault Hunters. This is a Minecraft modpack w
 Finally I looked at a newer game called Kingdom come deliverance 2 (Kingdom Come: Deliverance 2, s.d.)
 In Kingdom Come: Deliverance 2(Kingdom Come: Deliverance 2, s.d.), the weapon forging system is a skill-based process that emphasizes timing and craftsmanship.
 
+![alt text]( https://raw.githubusercontent.com/TransgenderQueen/Final-Major-Project/refs/heads/main/Development%20commentary/Henry%20smithing.avif )
+
+
  - Players begin by gathering materials and blueprints, then heating metal in a furnace until it reaches the perfect temperature. Using bellows to maintain the fire, the player must then transfer the heated metal to an anvil, where the real forging begins.
  - The hammering process is rhythm-based—matching the beat of Henry's whistle improves efficiency and ensures even shaping. Sparks and sound cues help guide successful strikes, and maintaining consistent pressure across the metal is key to crafting high-quality weapons.
  - As the metal cools, players must return it to the furnace to reheat it, sometimes multiple times throughout the process. Once shaped, the weapon is quenched in water to finalize its durability and combat readiness. The quality of the finished item depends on craftsmanship skill, timing, and technique.
@@ -81,7 +84,7 @@ Then, I came across another video that was all about building crafting systems i
 
 What was cool about it was that it got me thinking beyond the basic crafting mechanic. I started brainstorming ways to make the system feel more dynamic—things like adding more layers of customization, different materials, or ways to integrate crafting into the larger game world. The video gave me the tools to think about crafting not just as a standalone feature, but as something that could add depth to the overall experience.
 
-Ultimately, I didn’t implement the system as shown in the video, but it helped shape how I designed my approach. Sometimes, it’s not about directly using the ideas you see but rather using them as inspiration to spark your own unique solutions. And that’s exactly what this video did for me—it expanded my thinking and helped me refine my own vision for the crafting system.
+Ultimately, I didn’t implement the system as shown in the video, but it helped shape how I designed my approach. And that’s exactly what this video did for me—it expanded my thinking and helped me refine my own vision for the crafting system.
 
 ---
 
@@ -100,12 +103,28 @@ Eventually I came up with a final outcome. I had to reorginize the system. I nee
 This took a lot of work, before I finally ended up with a system that looked like this.
 Here I was then able to use it all for all weapon changes in the fufutre. This was because I could call the event from any other blueprint, rather than calling two seperate functions at once.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ein8LYzHDfg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1000" height="600" src="https://www.youtube.com/embed/ein8LYzHDfg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 - However, one thing I did not expect to be much of an issue was going to be the core system. I had created the core system as a way to create a gameplay loop. In order for players to upgrade or forge their own weapons, they would have to head into the dungeons, killing enemies along the way to gain cores of varying power. Each higher upgrade would require more and more cores.
 
-- Once gained enough 
+- Once gained enough, the players can head towards their base of operations and quickly begin to use their newly gained cores to upgrade their weapons durability.
+
+- This part took the longest to actually make. The functionality of upgrading weapons did not take long, as seen here. However, the longer part of it was the functionality that allowed it to use certain amounts of cores. This took the longest out of everything I had to try and work on. 
+
+<br>
+
+<iframe src="https://blueprintue.com/render/z-u4jshx/" width="1000" height="600" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+
+<br>
+
+- But the weapon crafting system was the hardest part of it all. I had to create a tracker for how many cores the last option selected had, so that it would not constantly add more and more to what was required. I then had to add different indexes for each process I was doing.
+
+- Ultimatly I think I made the user interface for players look rather nice, making it really quite simple for everyone to understand to follow the instructions laid out. 
+
+
+
 
 
 ### New Approaches  
@@ -209,7 +228,6 @@ Looking ahead, I’ll be way more thoughtful about choosing projects that I’m 
 
 https://mountandblade.fandom.com/wiki/Weapon_crafting
 
-https://kingdomcomedeliverance2.wiki.fextralife.com/Blacksmithing
 
 https://dev.epicgames.com/documentation/en-us/unreal-engine/saving-and-loading-your-game-in-unreal-engine 
 
