@@ -97,7 +97,15 @@ For my project, I needed to create a system that allowed me to reroll for weapon
 However, as I went to create the system that did it, I noticed a lot of issues with the original system. When making a weapon, it would start the stat system before then deciding what weapon type and rarity it was. This was increadibly inefficent and after plenty of testing, it would often not work correctly, having different outcomes roughly about 70% of the time.
 Eventually I came up with a final outcome. I had to reorginize the system. I needed to put the weapon rarity and type before any other systems began to work.
 
+This took a lot of work, before I finally ended up with a system that looked like this.
+Here I was then able to use it all for all weapon changes in the fufutre. This was because I could call the event from any other blueprint, rather than calling two seperate functions at once.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ein8LYzHDfg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+- However, one thing I did not expect to be much of an issue was going to be the core system. I had created the core system as a way to create a gameplay loop. In order for players to upgrade or forge their own weapons, they would have to head into the dungeons, killing enemies along the way to gain cores of varying power. Each higher upgrade would require more and more cores.
+
+- Once gained enough 
 
 
 ### New Approaches  
