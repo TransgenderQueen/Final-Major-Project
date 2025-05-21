@@ -70,7 +70,6 @@ So I want to ensure that players will enjoy what they can play as well as feelin
 
 
 ### Documentation Sources
- CITE THIS A LOT
 
 So, one of the best finds during development was this video on getting gamepads to work with menus. I had been scratching my head over how to implement gamepad support in a way that felt natural for navigating through menus, and it was an issue I couldn't figure out how to solve. But after searching, I came across this video, and it was an immediate help. It broke everything down step by step, covering all the little details I’d missed, and it instantly solved a massive problem I had.
 
@@ -123,6 +122,7 @@ Here I was then able to use it all for all weapon changes in the fufutre. This w
 
 - Ultimatly I think I made the user interface for players look rather nice, making it really quite simple for everyone to understand to follow the instructions laid out. 
 
+![Weapon Crafting](https://raw.githubusercontent.com/TransgenderQueen/Final-Major-Project/refs/heads/main/Development%20commentary/Weapon%20crafting.png)
 
 
 
@@ -140,7 +140,7 @@ This was my favorite part of making my game. I always enjoy seeing people try ou
 
 - The last piece of positive feedback they all had for me was the fact that the crouching I implimented into the game was fun.
 
-<iframe src="https://blueprintue.com/render/w7j0g03h/" width="8100" height="600" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://blueprintue.com/render/w7j0g03h/" width="1000" height="600" scrolling="no" allowfullscreen></iframe>
 
 (Figure 1 - Shows a blueprint allowing the player to imitate crouching by simply just squishing their hight by 50%, allowing for a very funny image. This was greatly received as something silly and endearing by players.)
 
@@ -159,6 +159,18 @@ This was my favorite part of making my game. I always enjoy seeing people try ou
 During this project, I had come up with plenty of new ideas, begining to build them up as blueprints.
 However, as I continued to work on the project, I found myself hating the project more and more, being unable to work on it. As I looked at what I had made, i found myself hating it. But I eventually couldnt deal with what I worked on and deleted it all in anger. This was not a good idea, as it meant I had lost a considerable amount of work.
 However, this meant I could go back and work on everything from a fresh start, learning from my mistakes.
+
+One major issue I was having in the game, was the save states. In all of my games I have never actually used any save states. So this was my first forray into using such a thing.
+This was where I made a mistake. I created a stat for my weapon, pushing it into an array. I thought this would work exactly, allowing me to send that directly to the save state. This, however, was definatly not the right way to go about this issue, as it ended up not working at all.
+
+Ecentually, using this documentation https://dev.epicgames.com/documentation/en-us/unreal-engine/saving-and-loading-your-game-in-unreal-engine (Saving and Loading Your Game in Unreal Engine | Unreal Engine 5.5 Documentation | Epic Developer Community, s.d.)
+I fiured out what I was actually doing wrong. It was rather embaressing to figure out how I was doing wrong.
+Eventually though I quickly began to get it to work, which is now able to do so.
+
+
+
+<iframe src="https://blueprintue.com/render/u1pynm0r/" width="1000" height="600" scrolling="no" allowfullscreen></iframe>
+
 
 ## Outcomes
 
@@ -225,11 +237,4 @@ Looking ahead, I’ll be way more thoughtful about choosing projects that I’m 
 
 - Welcome to the official site of Minecraft (s.d.) At: https://www.minecraft.net/en-us (Accessed  19/05/2025).
 
-
-https://mountandblade.fandom.com/wiki/Weapon_crafting
-
-
-https://dev.epicgames.com/documentation/en-us/unreal-engine/saving-and-loading-your-game-in-unreal-engine 
-
-https://dev.epicgames.com/documentation/en-us/unreal-engine/using-retargeted-animations-in-unreal-engine?application_version=5.5
-
+- Saving and Loading Your Game in Unreal Engine | Unreal Engine 5.5 Documentation | Epic Developer Community (s.d.) At: https://dev.epicgames.com/documentation/en-us/unreal-engine/saving-and-loading-your-game-in-unreal-engine (Accessed  21/05/2025).
