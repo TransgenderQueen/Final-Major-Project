@@ -33,6 +33,7 @@ The first game I am examining is Mount and Blade: Bannerlord II (TaleWorlds Ente
 In the game, players craft weapons by combining individual parts, such as a dagger head with a small hilt or a rake head with a long pole to create a pike. This system allows for creative combinations, making the crafting process increasingly engaging as more options become available. I drew inspiration from this design, particularly the flexibility it offers in crafting unique, custom weapons. According to the [documentation](https://mountandblade.fandom.com/wiki/Weapon_crafting) (Mount & Blade Fandom, 2025), this flexibility leads to a satisfying experience for players who take pride in their personalized creations.
 
 ![M&B Image](https://raw.githubusercontent.com/TransgenderQueen/Final-Major-Project/refs/heads/main/Development%20commentary/M%26B%20img.webp)
+*Figure 1 - An example of weapons made in Bannerlord.*
 
 I aim to incorporate a similar crafting system in my own game, focusing on combining different weapon components like blades and handles. However, unlike *Bannerlord II*, I do not plan to replicate the tiered weapon system or cosmetic elements, as I believe alternative mechanics will work better for my specific design.
 
@@ -40,13 +41,17 @@ I aim to incorporate a similar crafting system in my own game, focusing on combi
 
 I have also examined [Vault Hunters](https://vaulthunters.gg/) (Iskallia, s.d.), a Minecraft modpack that emphasizes dungeon running. In this modpack, players explore various vaults to discover weapons and items that can be used to modify or upgrade their existing gear. One aspect I particularly appreciate about Vault Hunters is its design, which encourages exploration and persistence by requiring players to keep trying until they acquire the desired items. This mechanic ensures that players remain engaged, continually striving to improve their weapons and overall gameplay. While I do not intend to replicate Vault Hunters entirely, as that would lack originality, I plan to incorporate elements of its system into my own game. Specifically, I am interested in adopting the concept of items that allow players to reset the stats of their weapons. When combined with ideas drawn from Mount and Blade: Bannerlord II (TaleWorlds Entertainment, n.d.), this could result in an intriguing and dynamic crafting system that balances both customization and progression.
 
+<img src="https://raw.githubusercontent.com/TransgenderQueen/Final-Major-Project/refs/heads/main/Development%20commentary/Vault%20Hunters.png" alt="Vault Hunters" width="1000" height="600">
+
+*Figure 2 - An example of the weapon reforging system in Vault Hunters.*
+
 <br>
 
 Finally I looked at a newer game called Kingdom come deliverance 2 (Kingdom Come: Deliverance 2, s.d.)
 In Kingdom Come: Deliverance 2(Kingdom Come: Deliverance 2, s.d.), the weapon forging system is a skill-based process that emphasizes timing and craftsmanship.
 
 ![alt text]( https://raw.githubusercontent.com/TransgenderQueen/Final-Major-Project/refs/heads/main/Development%20commentary/Henry%20smithing.avif )
-
+*Figure 3 - An example of the smithing minigame in Kingdom Come Deliverance 2* 
 
  - Players begin by gathering materials and blueprints, then heating metal in a furnace until it reaches the perfect temperature. Using bellows to maintain the fire, the player must then transfer the heated metal to an anvil, where the real forging begins.
  - The hammering process is rhythm-based—matching the beat of Henry's whistle improves efficiency and ensures even shaping. Sparks and sound cues help guide successful strikes, and maintaining consistent pressure across the metal is key to crafting high-quality weapons.
@@ -97,6 +102,7 @@ Here I was then able to use it all for all weapon changes in the fufutre. This w
 
 <iframe width="1000" height="600" src="https://www.youtube.com/embed/ein8LYzHDfg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+*Figure 4 - A video showcasing the collection of cores in my game*
 
 - However, one thing I did not expect to be much of an issue was going to be the core system. I had created the core system as a way to create a gameplay loop. In order for players to upgrade or forge their own weapons, they would have to head into the dungeons, killing enemies along the way to gain cores of varying power. Each higher upgrade would require more and more cores.
 
@@ -117,7 +123,7 @@ Here I was then able to use it all for all weapon changes in the fufutre. This w
 
 ![Weapon Crafting](https://raw.githubusercontent.com/TransgenderQueen/Final-Major-Project/refs/heads/main/Development%20commentary/Weapon%20crafting.png)
 
-
+*Figure 5 - The UI for my weapon reforger*
 
 
 ### New Approaches  
@@ -135,7 +141,7 @@ This was my favorite part of making my game. I always enjoy seeing people try ou
 
 <iframe src="https://blueprintue.com/render/w7j0g03h/" width="1000" height="600" scrolling="no" allowfullscreen></iframe>
 
-(Figure 1 - Shows a blueprint allowing the player to imitate crouching by simply just squishing their hight by 50%, allowing for a very funny image. This was greatly received as something silly and endearing by players.)
+*Figure 6 - Shows a blueprint allowing the player to imitate crouching by simply just squishing their hight by 50%, allowing for a very funny image. This was greatly received as something silly and endearing by players.*
 
 
 ### Later testing
