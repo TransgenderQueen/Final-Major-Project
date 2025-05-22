@@ -18,13 +18,7 @@ Ultimatly I am not too worried for this. With a lot of user testing and constant
 
 ### Methodology
 
-So, what I ended up looking into was Agile methodology (What Is Agile Project Management? | APM Methodology & Definition, s.d.), specifically the idea of using sprints to break down progress into manageable chunks. The goal was to keep the development process iterative, so instead of trying to build everything all at once, I’d focus on small, incremental improvements and just keep looping back to the start after each sprint to refine things. It’s all about making consistent progress and being flexible with how things evolve, which seemed like a smart way to avoid getting stuck or overwhelmed.
-
-
-On top of that, I also took some inspiration from a game called Star Citizen(Roberts Space Industries | Follow the development of Star Citizen and Squadron 42 - Roberts Space Industries | Follow the development of Star Citizen and Squadron 42, s.d.).
-The way they approach development is by releasing small patches that gradually add more content over time, rather than trying to do everything at once. It’s a slower, more steady process, but it works for them. I thought this approach could work well for my project too—pushing out small updates regularly, instead of waiting until everything is “perfect.” This was the core of my methodology: a steady, ongoing push forward that builds up over time.
-
-
+Deciding on the type of game to develop was a challenging process. Initially, I considered focusing on games like [Dark Souls](https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/) (DARK SOULS™: REMASTERED on Steam, n.d.), one of the most renowned titles in the souls-like adventure genre. This approach aligned with the original direction of my project. However, as I continued to refine my ideas, I expanded my scope and explored additional sources of inspiration. One such source was Vault Hunters (Iskallia, n.d.), a game I had previously incorporated into my prototype. This modpack sparked the idea of introducing random weapon stats and other mechanics, such as weapon reforging. Following this, I was advised to look into Mount and Blade: Bannerlord II (TaleWorlds Entertainment, n.d.), which features an intricate weapon crafting system that I could adapt to enhance my own project. By drawing on these diverse influences, I aim to create a game that combines elements of exploration, randomization, and deep customization.
 ---
 
 <br>
@@ -32,22 +26,16 @@ The way they approach development is by releasing small patches that gradually a
 
 ### Game Sources
 
-The first game is Mount and Blade: Bannerlord II(Mount&Blade II Bannerlord - TaleWorlds Entertainment, s.d.). The crafting system in the weapons is quite in-depth. The higher the weapon you wish to craft, the rarer the recourses to craft it becomes.
+The first game I am examining is Mount and Blade: Bannerlord II (TaleWorlds Entertainment, n.d.), which features a highly detailed weapon crafting system. In this system, the rarity of resources required to craft higher-tier weapons increases as the player seeks to create more advanced items. While I have not played the game personally, I have researched player feedback through its [Steam page](https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/) (TaleWorlds Entertainment, n.d.), which consistently receives a "Very Positive" rating, suggesting widespread enjoyment of the crafting system. 
+In the game, players craft weapons by combining individual parts, such as a dagger head with a small hilt or a rake head with a long pole to create a pike. This system allows for creative combinations, making the crafting process increasingly engaging as more options become available. I drew inspiration from this design, particularly the flexibility it offers in crafting unique, custom weapons. According to the [documentation](https://mountandblade.fandom.com/wiki/Weapon_crafting) (Mount & Blade Fandom, 2025), this flexibility leads to a satisfying experience for players who take pride in their personalized creations.
 
- - I am looking at this game as I heard that people really enjoyed the crafting system, especially as it felt fun to use.
+![M&B Image](https://raw.githubusercontent.com/TransgenderQueen/Final-Major-Project/refs/heads/main/Development%20commentary/M%26B%20img.webp)
 
- - The game focuses on allowing you to craft parts of a weapon at a time before adding it all together. For example a dagger head and small hilt and handle would become a dagger, or a rake head and long pole would become a pike. It allows for fun combonations that get more and more intersting.
-
- - This is a unique way to have a weapon crafting system as it allows for a lot of flexibility and custom weapons. Players get greater satisfaction from having their own crafted weapons.
- - This is useful for my own game as I wish to have a crafting system like this. I want to replicate the part of the system that allows you to combine different weapon blades and handles. It will be fun for players to craft weapons and play around with different ranges and attack speeds.
- - I do not want to replicate all of it however. I do not wish to include weapon teirs or cosmetics, I will have similar things in the game that would work better for my specific system.
+I aim to incorporate a similar crafting system in my own game, focusing on combining different weapon components like blades and handles. However, unlike *Bannerlord II*, I do not plan to replicate the tiered weapon system or cosmetic elements, as I believe alternative mechanics will work better for my specific design.
 
 <br>
 
-Additionally, I have also looked at Vault Hunters. This is a Minecraft modpack which focuses on dungeon running. Inside the Vaults, you can find weapons and items that can allow you to change current weapons.
-- I like the design of the game that forces you to explore and keep trying untill you gain an item.
-- It ensures the player has to try and try in order to and gain what they want in order to potentially uprade their weapons. This means that the player will constantly play to get better.
-- I will not copy everything from this game, as that would be far too unoriginal. In my game, I wish to take ideas from this system. For example, items to reset the stats of weapons. When made in combination with the ideas from Mount and Blade: Bannerlord II(Mount&Blade II Bannerlord - TaleWorlds Entertainment, s.d.), it shall end up as an interesting system
+I have also examined [Vault Hunters](https://vaulthunters.gg/) (Iskallia, s.d.), a Minecraft modpack that emphasizes dungeon running. In this modpack, players explore various vaults to discover weapons and items that can be used to modify or upgrade their existing gear. One aspect I particularly appreciate about Vault Hunters is its design, which encourages exploration and persistence by requiring players to keep trying until they acquire the desired items. This mechanic ensures that players remain engaged, continually striving to improve their weapons and overall gameplay. While I do not intend to replicate Vault Hunters entirely, as that would lack originality, I plan to incorporate elements of its system into my own game. Specifically, I am interested in adopting the concept of items that allow players to reset the stats of their weapons. When combined with ideas drawn from Mount and Blade: Bannerlord II (TaleWorlds Entertainment, n.d.), this could result in an intriguing and dynamic crafting system that balances both customization and progression.
 
 <br>
 
@@ -68,6 +56,11 @@ In Kingdom Come: Deliverance 2(Kingdom Come: Deliverance 2, s.d.), the weapon fo
 In the journel titled "Crafting in video games"(Grow et al., 2017), it explains what a crafting game is and how they can change someones playstyle or how they may feel about a game. Such notable games are Minecraft(Welcome to the official site of Minecraft, s.d.), which is the most popular game of all time, but one of the most popular crafting games ever. This does this very well by making sure you are the only one making every single block, item, piece of food, piece of armour and weapon. This means people gain a lot of emotional attachments, meaning that every single hard fought item they could create will be saved and cherished. Items such as the Elytra or a players first diamond pickaxe will be saved and cherished by players.
 So I want to ensure that players will enjoy what they can play as well as feeling a sense of accomplishment when getting newer weapons.
 
+So, what I ended up looking into was Agile methodology (What Is Agile Project Management? | APM Methodology & Definition, s.d.), specifically the idea of using sprints to break down progress into manageable chunks. The goal was to keep the development process iterative, so instead of trying to build everything all at once, I’d focus on small, incremental improvements and just keep looping back to the start after each sprint to refine things. It’s all about making consistent progress and being flexible with how things evolve, which seemed like a smart way to avoid getting stuck or overwhelmed.
+
+
+On top of that, I also took some inspiration from a game called Star Citizen(Roberts Space Industries | Follow the development of Star Citizen and Squadron 42 - Roberts Space Industries | Follow the development of Star Citizen and Squadron 42, s.d.).
+The way they approach development is by releasing small patches that gradually add more content over time, rather than trying to do everything at once. It’s a slower, more steady process, but it works for them. I thought this approach could work well for my project too—pushing out small updates regularly, instead of waiting until everything is “perfect.” This was the core of my methodology: a steady, ongoing push forward that builds up over time.
 
 ### Documentation Sources
 
@@ -86,15 +79,12 @@ What was cool about it was that it got me thinking beyond the basic crafting mec
 Ultimately, I didn’t implement the system as shown in the video, but it helped shape how I designed my approach. And that’s exactly what this video did for me—it expanded my thinking and helped me refine my own vision for the crafting system.
 
 ---
+<br>
 
 ## Implementation
 
 ### Process
 For my project, I needed to create a system that allowed me to reroll for weapons stats. This meant that I needed to call only a certain part of the system that created the stats while ignoring the system that allowed the rarity of the weapons and weapon type.
-
-
-(Insert image here)
-<br>
 
 However, as I went to create the system that did it, I noticed a lot of issues with the original system. When making a weapon, it would start the stat system before then deciding what weapon type and rarity it was. This was increadibly inefficent and after plenty of testing, it would often not work correctly, having different outcomes roughly about 70% of the time.
 Eventually I came up with a final outcome. I had to reorginize the system. I needed to put the weapon rarity and type before any other systems began to work.
@@ -152,6 +142,20 @@ This was my favorite part of making my game. I always enjoy seeing people try ou
 ![alt text](https://raw.githubusercontent.com/TransgenderQueen/Final-Major-Project/refs/heads/main/Development%20commentary/Testing%20Image%201-1.png)
 
 <br>
+So, I had a lot of testers run through the game so that I could have a look and see how it would all work.
+
+- A few of them found that the game felt rough and unpolished. The game was apparently rather unintuative, not showing the players where to go and what to do.
+
+
+
+
+As a result of all of these issues I added more things, working on their feedback:
+
+- A settings menu, now allowing the player to tone down the graphics settings if and when required
+- A controll menu, allowing the players to look and see what buttons could do what, both for controller and mouse and keyboard.
+- Better UI. The testers had complained that the game felt rather harsh when attemping to read through the ui. For example, they didnt know what "BC, HC and SC" meant. So as a result, I then went to add more incofmration by expanding on what I had written, leading it to say "Basic Core, Higher Core, Super Core"
+
+- The weapon craftiing system. I did not realise when giving the build to the testers, it had not been actually released. None of the systems had been actually made, nor added. Which was a major issue of course. So in the end, I quickly added it all in, happy with the final result.
 
 
 ### Technical Difficulties
@@ -180,18 +184,22 @@ Eventually though I quickly began to get it to work, which is now able to do so.
 ### Build Link
 
 ### Video Demonstration
+---
+
+<br>
 
 ## Reflection
 
 ### Research Effectiveness  
 
+Ultimtly I think the research I used was really effective. The help from Bannerlord(Mount&Blade II Bannerlord - TaleWorlds Entertainment, s.d.) was increadiblyt useful. It was perfect as a first step in the right way.
+The look at Kingdom Come Deliverance 2(Kingdom Come: Deliverance 2, s.d.) was also a good idea, it actually provided me ways to push this foreward and gave me plenty of ideas.
+
+Finally the document I looked at Crafting in video games"(Grow et al., 2017) was also a good help. It give me a good idea and explain how crafting items can become a massive help and idea.
+
 ### Positive Analysis
 
-I think the random weapon system, even though it’s pretty basic, actually worked well. It added just enough variety to keep things interesting without overcomplicating anything. I'm honestly pretty proud of how it turned out—it did what it needed to do, and it felt good in the game.
-
-I also really like how the weapon crafting system came together. It gave players some control over their loadout, which balanced nicely with the randomness. It was fun to build and even more fun to see players experiment with it.
-
-Additionally, my favourite aspect of the project, in general, was finishing up the UI. I am not the best at designing nice UI, but I am proud of mine, keeping it all neat and tidy so everything is out of the way of one another. It is not too clumped and not too small, making sure it is perfect.
+The random weapon system, while relatively simple, proved to be quite effective. It introduced enough variety to keep gameplay engaging without adding unnecessary complexity. I am particularly proud of how it turned out, as it fulfilled its purpose well and contributed positively to the overall game experience. Similarly, I was pleased with the implementation of the weapon crafting system. It offered players a degree of control over their loadouts, which complemented the randomness of the weapon drops and encouraged experimentation. One of my favorite aspects of the project, however, was finalizing the user interface. Although UI design is not my strongest skill, I was proud of the result. I focused on keeping the layout clean and organized, ensuring that elements were neither too cluttered nor too small. This attention to detail helped create a functional and visually appealing interface that supported the overall user experience.
 
 ### Negative Analysis  
 
@@ -205,15 +213,12 @@ Alongside this, there was also a small issue of me not having internet commectio
 ### Next Time
 
 
-Next time, I’ll make a proper plan so I don’t just dive in headfirst without thinking things through. The big issue I ran into was getting overwhelmed. I didn’t pace myself, and it ended up burning me out pretty quickly.
-
-Additionally, I had a Trello board for the first few weeks. While it started out rather well, it quickly fell apart into peices, becoming a bit of a mess. Originally I used a 
-
-Looking ahead, I’ll be way more thoughtful about choosing projects that I’m excited about, rather than just going for something that sounds cool at first. The real problem here was that I ended up falling out of love with the project midway, and once that happened, it was tough to keep pushing forward. It led to me not finishing as strong as I should have.
+In future projects, I will place greater emphasis on planning to avoid starting without adequate preparation. One of the main challenges I faced was a lack of pacing, which resulted in feeling overwhelmed and eventually led to burnout. Although I initially used a Trello board to manage my tasks, its effectiveness declined over time as the structure broke down. This experience highlighted the importance of consistent organization throughout a project. Additionally, I have realized the value of choosing projects that genuinely sustain my interest. In this case, I lost motivation midway through, which made it difficult to maintain momentum and negatively affected the quality of my final output. Going forward, I will be more deliberate in both project selection and time management to ensure better outcomes.
 
 
 ## Bibliography
 
+- DARK SOULS™: REMASTERED on Steam (s.d.) At: https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/ (Accessed  22/05/2025).
 
 - Mount&Blade II Bannerlord - TaleWorlds Entertainment (s.d.) At: https://www.taleworlds.com/en/games/bannerlord# (Accessed  03/03/2025).
 
@@ -238,3 +243,7 @@ Looking ahead, I’ll be way more thoughtful about choosing projects that I’m 
 - Welcome to the official site of Minecraft (s.d.) At: https://www.minecraft.net/en-us (Accessed  19/05/2025).
 
 - Saving and Loading Your Game in Unreal Engine | Unreal Engine 5.5 Documentation | Epic Developer Community (s.d.) At: https://dev.epicgames.com/documentation/en-us/unreal-engine/saving-and-loading-your-game-in-unreal-engine (Accessed  21/05/2025).
+
+- Mount & Blade II: Bannerlord on Steam (s.d.) At: https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/ (Accessed  22/05/2025).
+
+- Weapon crafting (2025) At: https://mountandblade.fandom.com/wiki/Weapon_crafting (Accessed  22/05/2025).
