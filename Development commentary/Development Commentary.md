@@ -148,7 +148,13 @@ This was my favorite part of making my game. I always enjoy seeing people try ou
 
 <br>
 
-![alt text](https://raw.githubusercontent.com/TransgenderQueen/Final-Major-Project/refs/heads/main/Development%20commentary/Testing%20Image%201-1.png)
+![alt text](https://raw.githubusercontent.com/TransgenderQueen/Final-Major-Project/refs/heads/main/Development%20commentary/Testing%20Image%201.png)
+*Figure 7 - A graph showing players experiance. 1 being not at all, 10 to max*
+
+
+![alt text](https://raw.githubusercontent.com/TransgenderQueen/Final-Major-Project/refs/heads/main/Development%20commentary/Testing%20image%203.png)
+
+*Figure 8 - A graph showing their enjoyment of mechanics.*
 
 <br>
 So, I had a lot of testers run through the game so that I could have a look and see how it would all work.
@@ -189,11 +195,20 @@ Eventually though I quickly began to get it to work, which is now able to do so.
 
 
 ### Source Code/Project Files
+https://github.com/TransgenderQueen/Final-Major-Project/tree/main
+
+A link to my github files.
+
 
 ### Build Link
+https://transgenderdruid.itch.io/finalmajorproject
+
 
 ### Video Demonstration
 ---
+
+<iframe width="1000" height="600" src="https://www.youtube.com/embed/kXpcGx8TsSA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <br>
 
