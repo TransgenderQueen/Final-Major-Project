@@ -271,3 +271,20 @@ In future projects, I will place greater emphasis on planning to avoid starting 
 - Mount & Blade II: Bannerlord on Steam (s.d.) At: https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/ (Accessed  22/05/2025).
 
 - Weapon crafting (2025) At: https://mountandblade.fandom.com/wiki/Weapon_crafting (Accessed  22/05/2025).
+
+## Declared Assets
+
+- Scythe (s.d.) At: https://www.fab.com/listings/1487e4be-d20b-4854-bfea-154f2db3eb3f (Accessed  23/05/2025).
+ A scythe model and textures used in game,
+
+- Sword Gem FREE (s.d.) At: https://www.fab.com/listings/d5fc1ebf-845a-42b8-ae69-a868d51e9e18 (Accessed  23/05/2025).
+ A sword model and textures used in game.
+
+ - RamsterZ Free Anims Volume 1 (s.d.) At: https://www.fab.com/listings/9319491d-0e91-422c-9b67-ad4bf6c01a02 (Accessed  23/05/2025).
+ A pack for the enemy animations and the fighting animations
+
+- Dungeon Environment / 135+ Assets (s.d.) At: https://www.fab.com/listings/bb39bae4-7f7a-4127-b07e-151cf52db0f6 (Accessed  23/05/2025).
+ A pack for dungeon environments, used to make my game.
+
+- Introducing ChatGPT (2024) At: https://openai.com/index/chatgpt/ (Accessed  23/05/2025).
+ Chat gpt used to format and spell check this document.
